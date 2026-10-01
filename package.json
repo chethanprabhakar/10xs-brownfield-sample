@@ -1,0 +1,9 @@
+{
+  "name": "10xs-brownfield-sample",
+  "version": "0.1.0",
+  "description": "A tiny order-total library, used to record 10xs on an existing codebase.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
